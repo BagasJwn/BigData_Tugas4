@@ -1,12 +1,5 @@
-## Bigdata 2020
+## Bigdata_Tugas4
 
-# Stream Analysis: Kafka
-
-* [Tools](https://github.com/farizmpr/Bigdata-2020/blob/master/tugas_4/README.md#Tools)<br/>
-* [Install](https://github.com/farizmpr/Bigdata-2020/blob/master/tugas_4/README.md#Install)<br/>
-* [Kafka Docker](https://github.com/farizmpr/Bigdata-2020/blob/master/tugas_4/README.md#Kafka_Docker)<br/>
-* [Running](https://github.com/farizmpr/Bigdata-2020/blob/master/tugas_4/README.md#Running)<br/>
-* [Testing](https://github.com/farizmpr/Bigdata-2020/blob/master/tugas_4/README.md#Testing)<br/>
 
 # Tools
 Dari tugas ini kita membutuhkan beberapa tools yang digunakan:
@@ -99,7 +92,7 @@ services:
 - dan akan menampilkan pesan seperti ini sesuai yang dipasang di script 
   ![alt text](https://github.com/farizmpr/Bigdata-2020/blob/master/tugas_4/picture/success_compose.PNG "docker")<br/>
 - melakukan pengecekan di docker 
-  ![alt text](https://github.com/farizmpr/Bigdata-2020/blob/master/tugas_4/picture/docker_compose.PNG "docker")<br/>
+  ![alt text](https://github.com/farizmpr/Bigdata-2020/blob/master/tugas_4/picture/dockers_compose.PNG "docker")<br/>
 
 # Testing
 
